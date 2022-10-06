@@ -16,7 +16,7 @@ I am still a student
   <a href="https://instagram.com/iamfadlyid_" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/c/XDLYY" target="_blank">
+  <a href="https://youtube.com/c/FadlyID" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 </p>
@@ -24,7 +24,7 @@ I am still a student
 <a href="https://t.me/fadlyid" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="Telegram"/>
   </a>
-  <a href="https://wa.me/62895379169488" target="_blank">
+  <a href="https://wa.me/62990080090" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 </p>
@@ -48,7 +48,7 @@ I am still a student
 <a href="xdlyy404"><img src="https://komarev.com/ghpvc/?username=xdlyy404&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="xdlyy404" /></a>
 <br>
 <a href="https://github.com/xdlyy404"><img src="https://github-readme-stats.vercel.app/api?username=xdlyy404&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
-<a href="https://github.com/xdlyy404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<a href="https://github.com/xdlyy404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadly%20ID&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdlyy404&bg_color=071A2C" />
 <a href="https://github.com/xdlyy404/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdlyy404&theme=onedark" /></a>
 </div>
