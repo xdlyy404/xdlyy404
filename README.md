@@ -13,7 +13,7 @@ I am still a student
 <br>
 <details align="center"><summary><b>Connect with me 👋</b></summary><br>
 <p align="center">
-  <a href="https://instagram.com/iamfadlyid_" target="_blank">
+  <a href="https://instagram.com/fdlyblmpinter" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://youtube.com/c/FadlyID" target="_blank">
