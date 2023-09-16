@@ -24,7 +24,7 @@ I am still a student
 <a href="https://t.me/fadzzz" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="Telegram"/>
   </a>
-  <a href="https://wa.me/6289900808988" target="_blank">
+  <a href="https://wa.me/62895324463608" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 </p>
