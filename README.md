@@ -5,7 +5,7 @@
 Hi my name is Fadly and
 I am still a student
 
-• I'm 15 y.o
+• I'm 16 y.o
 • I'm currently focusing on Javascript,
   html & css
 • Programming is just my hobbies
@@ -13,18 +13,18 @@ I am still a student
 <br>
 <details align="center"><summary><b>Connect with me 👋</b></summary><br>
 <p align="center">
-  <a href="https://instagram.com/fdlyblmpinter" target="_blank">
+  <a href="https://instagram.com/aura.fadzzz" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/c/FadlyID" target="_blank">
+  <a href="https://youtube.com/@fadzzzproject" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 </p>
 <p align="center">
-<a href="https://t.me/fadlyid" target="_blank">
+<a href="https://t.me/fadzzz" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=071A2C" alt="Telegram"/>
   </a>
-  <a href="https://wa.me/62990080090" target="_blank">
+  <a href="https://wa.me/6289900808988" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 </p>
